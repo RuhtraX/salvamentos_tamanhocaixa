@@ -1,0 +1,1781 @@
+{
+    "scene": "Home_SBE",
+    "version": "3.02",
+    "playerSaveData": {
+        "controlledEntityId": 142,
+        "cameraState": 3,
+        "cameraVirtualPosition": {
+            "x": 29004.1875,
+            "y": 5262.38330078125,
+            "z": 7703.15234375
+        },
+        "cameraRotation": {
+            "x": -0.0008131571812555194,
+            "y": 0.9979820251464844,
+            "z": -0.062134768813848498,
+            "w": -0.013060581870377064
+        }
+    },
+    "entityData": [],
+    "microData": [
+        {
+            "id": 144,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 30838.3515625,
+                "y": 176.2626953125,
+                "z": -445.157470703125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1000.0,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 3.9324679374694826,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 143,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 36704.5546875,
+                "y": 170.98828125,
+                "z": -6614.44140625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1000.0,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 4.87113618850708,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 142,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 27240.5078125,
+                "y": 176.2626953125,
+                "z": -2217.171142578125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1000.0,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 5.914022922515869,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 141,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 29864.703125,
+                "y": 176.2626953125,
+                "z": -4119.94921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1000.0,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 9.523720741271973,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 140,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 29733.94140625,
+                "y": 176.2626953125,
+                "z": -20089.0234375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1000.0,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 11.052851676940918,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 139,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 30588.06640625,
+                "y": 176.2626953125,
+                "z": -12464.9609375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1000.0,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 12.012472152709961,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 138,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 26971.88671875,
+                "y": 176.2626953125,
+                "z": -11062.9794921875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 1000.0,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 14.874543190002442,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 137,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 28382.0078125,
+                "y": 176.2626953125,
+                "z": -7107.078125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 681.2911987304688,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 15.933172225952149,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 136,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 28058.359375,
+                "y": 176.2626953125,
+                "z": -14394.1884765625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 681.2911987304688,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 18.936418533325197,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 135,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 22688.673828125,
+                "y": 176.2626953125,
+                "z": -8676.0859375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 408.42413330078127,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 22.455780029296876,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 134,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 19435.49609375,
+                "y": 176.2626953125,
+                "z": -5664.7265625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 6.959995912936279e-10,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 106.60509490966797,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 26.87110710144043,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 133,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 16511.2265625,
+                "y": 338.68017578125,
+                "z": -5295.859375
+            },
+            "rotation": {
+                "x": -8.12865191823775e-11,
+                "y": 4.023179567269608e-10,
+                "z": -0.0006841899594292045,
+                "w": 0.9999998211860657
+            },
+            "scale": 106.60509490966797,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 28.327774047851564,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 132,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 13587.5400390625,
+                "y": 496.25439453125,
+                "z": -4964.2421875
+            },
+            "rotation": {
+                "x": 7.72837183138364e-10,
+                "y": 0.0000012588268418767257,
+                "z": -0.0006781547563150525,
+                "w": 0.9999997615814209
+            },
+            "scale": 106.60509490966797,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 33.0518913269043,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 131,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 7780.50634765625,
+                "y": 1345.6259765625,
+                "z": -5115.59375
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 6.105283034685272e-8,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 74.98954772949219,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 44.37744140625,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 130,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": -1026.14453125,
+                "y": 3997.911865234375,
+                "z": 5964.861328125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.00029889418510720134,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 74.98954772949219,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 60.82522964477539,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 129,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 2677.5322265625,
+                "y": 6689.33154296875,
+                "z": -1847.502685546875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.9217174053192139,
+                "z": 0.0,
+                "w": -0.38786208629608157
+            },
+            "scale": 54.46413040161133,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 81.11739349365235,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 128,
+            "name": "taichi pack.micro/m01_bathtowel_00_l",
+            "model": "taichi pack.micro/m01_bathtowel_00_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 8561.974609375,
+                "y": 6682.55419921875,
+                "z": 3258.0869140625
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 5.4313776587378018e-8,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 54.46413040161133,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 87.95496368408203,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        }
+    ],
+    "macroData": [
+        {
+            "id": 114,
+            "name": "sm lana.gts/Lana",
+            "model": "sm lana.gts/Lana",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 10164.8408203125,
+                "y": 6747.57861328125,
+                "z": 3388.851318359375
+            },
+            "rotation": {
+                "x": 1.401298464324817e-45,
+                "y": -0.7477164268493652,
+                "z": 1.401298464324817e-45,
+                "w": -0.6640182733535767
+            },
+            "scale": 0.28546783328056338,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 5.914024829864502,
+                "doNotMoveGts": true
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [
+                        {
+                            "commandName": "grow_on_crush",
+                            "id": 114,
+                            "virtualPoint": {
+                                "x": 3387.50439453125,
+                                "y": 11909.0966796875,
+                                "z": -5224.54638671875
+                            }
+                        }
+                    ],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        }
+    ],
+    "cityData": []
+}

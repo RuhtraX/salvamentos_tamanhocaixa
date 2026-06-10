@@ -1,0 +1,3275 @@
+{
+    "scene": "Kitchen_SBE",
+    "version": "3.02",
+    "playerSaveData": {
+        "controlledEntityId": 86,
+        "cameraState": 3,
+        "cameraVirtualPosition": {
+            "x": -3533.77734375,
+            "y": 669.2603149414063,
+            "z": 2294.243896484375
+        },
+        "cameraRotation": {
+            "x": 0.049689192324876788,
+            "y": 0.925001859664917,
+            "z": -0.13000057637691499,
+            "w": 0.35355690121650698
+        }
+    },
+    "entityData": [
+        {
+            "id": 79,
+            "name": "tntn.object/é¦é¦éaé+é±é¦IKî^_flaccid",
+            "model": "tntn.object/é¦é¦éaé+é±é¦IKî^_flaccid",
+            "parentingData": {
+                "parentEntityId": 74,
+                "transformName": "Edit Bone 01",
+                "localPosition": {
+                    "x": 0.6872704029083252,
+                    "y": 0.101165771484375,
+                    "z": -35.55780792236328
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 1.0
+                }
+            },
+            "virtualPosition": {
+                "x": -2258.14013671875,
+                "y": 496.81854248046877,
+                "z": 1785.655517578125
+            },
+            "rotation": {
+                "x": -0.4066002070903778,
+                "y": -0.5358477234840393,
+                "z": 0.5359826683998108,
+                "w": 0.5101628303527832
+            },
+            "scale": 0.9655641317367554,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            }
+        }
+    ],
+    "microData": [
+        {
+            "id": 86,
+            "name": "taichi pack.micro/m01_schoolwear_300_l",
+            "model": "taichi pack.micro/m01_schoolwear_300_l",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": -3306.33447265625,
+                "y": 358.2709045410156,
+                "z": 2040.184326171875
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": -0.9999070763587952,
+                "z": 0.0,
+                "w": -0.013635038398206234
+            },
+            "scale": 157.93418884277345,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 8.122994422912598,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        }
+    ],
+    "macroData": [
+        {
+            "id": 84,
+            "name": "Kongou Iroha - Normal.gts/KongoIroha",
+            "model": "Kongou Iroha - Normal.gts/KongoIroha",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 1722.791259765625,
+                "y": 0.07295894622802735,
+                "z": -2137.99853515625
+            },
+            "rotation": {
+                "x": 2.2648958264426257e-8,
+                "y": -0.0051997145637869839,
+                "z": 3.3227820495085327e-9,
+                "w": 0.9999865293502808
+            },
+            "scale": 0.7151235938072205,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "Neutral Idle",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 288.2630920410156,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 82,
+            "name": "shantae 1.5.gts/Shantae 1.5",
+            "model": "shantae 1.5.gts/Shantae 1.5",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": 2051.50244140625,
+                "y": 443.7160339355469,
+                "z": 1337.75732421875
+            },
+            "rotation": {
+                "x": -3.3952666456116279e-8,
+                "y": 0.9920588731765747,
+                "z": -1.5075105608275408e-9,
+                "w": -0.1257743388414383
+            },
+            "scale": 0.7151235938072205,
+            "floorOffset": 0.0,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "Sit 3",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 462.26702880859377,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 81,
+            "name": "unitychan.micro/unitychan",
+            "model": "unitychan.micro/unitychan",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": -2964.3896484375,
+                "y": 112.02674102783203,
+                "z": 734.008056640625
+            },
+            "rotation": {
+                "x": -2.6761142635223224e-8,
+                "y": -0.04523321986198425,
+                "z": -1.2117320480342642e-9,
+                "w": -0.9989765286445618
+            },
+            "scale": 0.6253653764724731,
+            "floorOffset": -0.2222222238779068,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "Sitting 2",
+                "isPose": false,
+                "speed": 1.0,
+                "time": 535.7509155273438,
+                "doNotMoveGts": true
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 80,
+            "name": "sm lana.gts/Lana",
+            "model": "sm lana.gts/Lana",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": -3799.02880859375,
+                "y": 378.24639892578127,
+                "z": 428.612060546875
+            },
+            "rotation": {
+                "x": 2.6358721427754973e-8,
+                "y": 0.17842094600200654,
+                "z": 4.779636242346896e-9,
+                "w": 0.9839542508125305
+            },
+            "scale": 0.5000964999198914,
+            "floorOffset": 0.003086620010435581,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "hairPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    },
+                    "extraPreset": {
+                        "hashCode": "",
+                        "boneData": [],
+                        "skeletonMap": []
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": []
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": []
+                    }
+                }
+            },
+            "animation": {
+                "name": "Sit 6",
+                "isPose": false,
+                "speed": 0.8009953498840332,
+                "time": 45.852195739746097,
+                "doNotMoveGts": false
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [
+                        {
+                            "commandName": "Enable AI",
+                            "id": 80,
+                            "virtualPoint": {
+                                "x": -3721.79248046875,
+                                "y": 531.9484252929688,
+                                "z": 519.529052734375
+                            }
+                        }
+                    ],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        },
+        {
+            "id": 74,
+            "name": "Amatsukaze1.1.gts/駆逐艦天津風aaa222",
+            "model": "Amatsukaze1.1.gts/駆逐艦天津風aaa222",
+            "parentingData": {
+                "parentEntityId": -1,
+                "transformName": "",
+                "localPosition": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "localRotation": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                }
+            },
+            "virtualPosition": {
+                "x": -2218.115234375,
+                "y": 397.9089660644531,
+                "z": 1741.993408203125
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 3.007884608052791e-9,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "scale": 0.75,
+            "floorOffset": 0.01625535450875759,
+            "morphs": [],
+            "characterEditorSaveData": {
+                "skeletonData": {
+                    "bodyPreset": {
+                        "hashCode": "d71a40380502a271b75a49a10effb2ce",
+                        "boneData": [
+                            {
+                                "key": "0,1,30",
+                                "data": {
+                                    "position": {
+                                        "x": 1.2237234115600587,
+                                        "y": 27.80035400390625,
+                                        "z": -7.48748779296875
+                                    },
+                                    "scale": {
+                                        "x": 1.0,
+                                        "y": 1.0,
+                                        "z": 1.0
+                                    },
+                                    "rotation": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0,
+                                        "w": 1.0
+                                    }
+                                }
+                            },
+                            {
+                                "key": "0,1,31",
+                                "data": {
+                                    "position": {
+                                        "x": 1.1758861541748047,
+                                        "y": 36.67144775390625,
+                                        "z": 1.4276180267333985
+                                    },
+                                    "scale": {
+                                        "x": 1.0,
+                                        "y": 1.0,
+                                        "z": 1.0
+                                    },
+                                    "rotation": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0,
+                                        "w": 1.0
+                                    }
+                                }
+                            },
+                            {
+                                "key": "0,1,31,0",
+                                "data": {
+                                    "position": {
+                                        "x": 0.0036239398177713157,
+                                        "y": -0.0609130896627903,
+                                        "z": 0.7577133178710938
+                                    },
+                                    "scale": {
+                                        "x": 1.0,
+                                        "y": 1.0,
+                                        "z": 1.0
+                                    },
+                                    "rotation": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0,
+                                        "w": 1.0
+                                    }
+                                }
+                            },
+                            {
+                                "key": "0,1,31,0;W;tntn.object/é¦é¦éaé+é±é¦IKî^_flaccid0",
+                                "data": {
+                                    "position": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "scale": {
+                                        "x": 0.9139624834060669,
+                                        "y": 0.913962185382843,
+                                        "z": 0.9139624834060669
+                                    },
+                                    "rotation": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0,
+                                        "w": 1.0
+                                    }
+                                }
+                            }
+                        ],
+                        "skeletonMap": [
+                            {
+                                "key": "0,1,0,0,0,0",
+                                "bone": 1
+                            },
+                            {
+                                "key": "0,1,0,0,0",
+                                "bone": 2
+                            },
+                            {
+                                "key": "0,1,0,0,2",
+                                "bone": 21
+                            },
+                            {
+                                "key": "0,1,0,0,4",
+                                "bone": 22
+                            },
+                            {
+                                "key": "0,1,0,0,2,1",
+                                "bone": 7
+                            },
+                            {
+                                "key": "0,1,0,0,2,1,4",
+                                "bone": 8
+                            },
+                            {
+                                "key": "0,1,0,0,2,1,4,4",
+                                "bone": 9
+                            },
+                            {
+                                "key": "0,1,0,0,4,1",
+                                "bone": 10
+                            },
+                            {
+                                "key": "0,1,0,0,4,1,4",
+                                "bone": 11
+                            },
+                            {
+                                "key": "0,1,0,0,4,1,4,4",
+                                "bone": 12
+                            },
+                            {
+                                "key": "0,1,5",
+                                "bone": 13
+                            },
+                            {
+                                "key": "0,1,5,0",
+                                "bone": 14
+                            },
+                            {
+                                "key": "0,1,5,0,0",
+                                "bone": 15
+                            },
+                            {
+                                "key": "0,1,4",
+                                "bone": 16
+                            },
+                            {
+                                "key": "0,1,4,0",
+                                "bone": 17
+                            },
+                            {
+                                "key": "0,1,4,0,0",
+                                "bone": 18
+                            },
+                            {
+                                "key": "0,1,0,0",
+                                "bone": 3
+                            },
+                            {
+                                "key": "0,1,0",
+                                "bone": 4
+                            },
+                            {
+                                "key": "0,1",
+                                "bone": 5
+                            },
+                            {
+                                "key": "0",
+                                "bone": 6
+                            },
+                            {
+                                "key": "0,1,0,0,8",
+                                "bone": 19
+                            },
+                            {
+                                "key": "0,1,0,0,6",
+                                "bone": 20
+                            }
+                        ]
+                    },
+                    "hairPreset": {
+                        "hashCode": "d71a40380502a271b75a49a10effb2ce",
+                        "boneData": [],
+                        "skeletonMap": [
+                            {
+                                "key": "0,1,0,0,0,0",
+                                "bone": 1
+                            },
+                            {
+                                "key": "0,1,0,0,0",
+                                "bone": 2
+                            },
+                            {
+                                "key": "0,1,0,0,2",
+                                "bone": 21
+                            },
+                            {
+                                "key": "0,1,0,0,4",
+                                "bone": 22
+                            },
+                            {
+                                "key": "0,1,0,0,2,1",
+                                "bone": 7
+                            },
+                            {
+                                "key": "0,1,0,0,2,1,4",
+                                "bone": 8
+                            },
+                            {
+                                "key": "0,1,0,0,2,1,4,4",
+                                "bone": 9
+                            },
+                            {
+                                "key": "0,1,0,0,4,1",
+                                "bone": 10
+                            },
+                            {
+                                "key": "0,1,0,0,4,1,4",
+                                "bone": 11
+                            },
+                            {
+                                "key": "0,1,0,0,4,1,4,4",
+                                "bone": 12
+                            },
+                            {
+                                "key": "0,1,5",
+                                "bone": 13
+                            },
+                            {
+                                "key": "0,1,5,0",
+                                "bone": 14
+                            },
+                            {
+                                "key": "0,1,5,0,0",
+                                "bone": 15
+                            },
+                            {
+                                "key": "0,1,4",
+                                "bone": 16
+                            },
+                            {
+                                "key": "0,1,4,0",
+                                "bone": 17
+                            },
+                            {
+                                "key": "0,1,4,0,0",
+                                "bone": 18
+                            },
+                            {
+                                "key": "0,1,0,0",
+                                "bone": 3
+                            },
+                            {
+                                "key": "0,1,0",
+                                "bone": 4
+                            },
+                            {
+                                "key": "0,1",
+                                "bone": 5
+                            },
+                            {
+                                "key": "0",
+                                "bone": 6
+                            },
+                            {
+                                "key": "0,1,0,0,8",
+                                "bone": 19
+                            },
+                            {
+                                "key": "0,1,0,0,6",
+                                "bone": 20
+                            }
+                        ]
+                    },
+                    "extraPreset": {
+                        "hashCode": "d71a40380502a271b75a49a10effb2ce",
+                        "boneData": [],
+                        "skeletonMap": [
+                            {
+                                "key": "0,1,0,0,0,0",
+                                "bone": 1
+                            },
+                            {
+                                "key": "0,1,0,0,0",
+                                "bone": 2
+                            },
+                            {
+                                "key": "0,1,0,0,2",
+                                "bone": 21
+                            },
+                            {
+                                "key": "0,1,0,0,4",
+                                "bone": 22
+                            },
+                            {
+                                "key": "0,1,0,0,2,1",
+                                "bone": 7
+                            },
+                            {
+                                "key": "0,1,0,0,2,1,4",
+                                "bone": 8
+                            },
+                            {
+                                "key": "0,1,0,0,2,1,4,4",
+                                "bone": 9
+                            },
+                            {
+                                "key": "0,1,0,0,4,1",
+                                "bone": 10
+                            },
+                            {
+                                "key": "0,1,0,0,4,1,4",
+                                "bone": 11
+                            },
+                            {
+                                "key": "0,1,0,0,4,1,4,4",
+                                "bone": 12
+                            },
+                            {
+                                "key": "0,1,5",
+                                "bone": 13
+                            },
+                            {
+                                "key": "0,1,5,0",
+                                "bone": 14
+                            },
+                            {
+                                "key": "0,1,5,0,0",
+                                "bone": 15
+                            },
+                            {
+                                "key": "0,1,4",
+                                "bone": 16
+                            },
+                            {
+                                "key": "0,1,4,0",
+                                "bone": 17
+                            },
+                            {
+                                "key": "0,1,4,0,0",
+                                "bone": 18
+                            },
+                            {
+                                "key": "0,1,0,0",
+                                "bone": 3
+                            },
+                            {
+                                "key": "0,1,0",
+                                "bone": 4
+                            },
+                            {
+                                "key": "0,1",
+                                "bone": 5
+                            },
+                            {
+                                "key": "0",
+                                "bone": 6
+                            },
+                            {
+                                "key": "0,1,0,0,8",
+                                "bone": 19
+                            },
+                            {
+                                "key": "0,1,0,0,6",
+                                "bone": 20
+                            }
+                        ]
+                    }
+                },
+                "materialData": {
+                    "materialDataset": {
+                        "matData": [
+                            {
+                                "id": "02.kounai (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "16.karada (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "27.shitagi (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "38.kami1 (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "49.kami2 (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "510.heabando (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "611.fukinagashi (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "712.entotsu (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "813.tebukuro (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "914.fuku (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1015.eri (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1116.ukiwa (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1217.ribon (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1318.tere (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 2.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 2.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 0.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1419.tere2 (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 2.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 2.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 0.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1520.haraguro (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 2.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 2.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 0.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1621.namida (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 2.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 2.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 0.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1722.ashi (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 0.8901961445808411,
+                                            "b": 0.8509805202484131,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1823.pantsu (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "1924.ashi (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 0.8901961445808411,
+                                            "b": 0.8509805202484131,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "2024.ashi (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 0.8901961445808411,
+                                            "b": 0.8509805202484131,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "2125.tsume (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 0.8529411554336548,
+                                            "b": 0.8529411554336548,
+                                            "a": 0.9800000190734863
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "220.atama (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "231.kao (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "243.shirome (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "254.kurome (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "265.mekou (Instance)",
+                                "shaderName": "Standard2Sided",
+                                "renderMode": 2.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 2.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 1.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "427.kekkan (Instance)",
+                                "shaderName": "Standard",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "416.nyoudou(otoko) (Instance)",
+                                "shaderName": "Standard",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "405.kameatama (Instance)",
+                                "shaderName": "Standard",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "394.inkeisaki (Instance)",
+                                "shaderName": "Standard",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "383.inkei (Instance)",
+                                "shaderName": "Standard",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "372.kurigawa (Instance)",
+                                "shaderName": "Standard",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "361.hidaridama (Instance)",
+                                "shaderName": "Standard",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            },
+                            {
+                                "id": "350.migidama (Instance)",
+                                "shaderName": "Standard",
+                                "renderMode": 0.0,
+                                "floatData": [
+                                    {
+                                        "propertyName": "_Mode",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Cutoff",
+                                        "value": 0.5
+                                    },
+                                    {
+                                        "propertyName": "_Metallic",
+                                        "value": 0.0
+                                    },
+                                    {
+                                        "propertyName": "_Glossiness",
+                                        "value": 0.5
+                                    }
+                                ],
+                                "colorData": [
+                                    {
+                                        "propertyName": "_Color",
+                                        "color": {
+                                            "r": 1.0,
+                                            "g": 1.0,
+                                            "b": 1.0,
+                                            "a": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_EmissionColor",
+                                        "color": {
+                                            "r": 0.0,
+                                            "g": 0.0,
+                                            "b": 0.0,
+                                            "a": 0.0
+                                        }
+                                    }
+                                ],
+                                "textureData": [
+                                    {
+                                        "propertyName": "_DetailNormalMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    },
+                                    {
+                                        "propertyName": "_DetailAlbedoMap",
+                                        "textureName": "SB_NO_TEX",
+                                        "tiling": {
+                                            "x": 1.0,
+                                            "y": 1.0
+                                        }
+                                    }
+                                ],
+                                "removeTexture": false,
+                                "useEmission": false
+                            }
+                        ]
+                    }
+                },
+                "jiggleData": {
+                    "presetData": {
+                        "jiggleBones": [
+                            {
+                                "boneKey": "0,1,0,0",
+                                "exclusions": [
+                                    "0,1,0,0,0",
+                                    "0,1,0,0,1",
+                                    "0,1,0,0,2",
+                                    "0,1,0,0,3",
+                                    "0,1,0,0,4",
+                                    "0,1,0,0,5",
+                                    "0,1,0,0,10"
+                                ],
+                                "settings": {
+                                    "dampening": 0.20000000298023225,
+                                    "stiffness": 0.10000000149011612,
+                                    "elasticity": 0.10000000149011612,
+                                    "inertia": 0.10000000149011612
+                                }
+                            },
+                            {
+                                "boneKey": "0,1,0,0,0,0",
+                                "exclusions": [
+                                    "0,1,0,0,0,0,0",
+                                    "0,1,0,0,0,0,1",
+                                    "0,1,0,0,0,0,2",
+                                    "0,1,0,0,0,0,8",
+                                    "0,1,0,0,0,0,9",
+                                    "0,1,0,0,0,0,13"
+                                ],
+                                "settings": {
+                                    "dampening": 0.20000000298023225,
+                                    "stiffness": 0.699999988079071,
+                                    "elasticity": 0.05000000074505806,
+                                    "inertia": 0.0
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "animation": {
+                "name": "Lie Down 3",
+                "isPose": false,
+                "speed": 0.8839138746261597,
+                "time": 869.7495727539063,
+                "doNotMoveGts": true
+            },
+            "aiData": {
+                "aiEnabled": false,
+                "behaviorData": {
+                    "mainData": {
+                        "commandName": "",
+                        "id": 0,
+                        "virtualPoint": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        }
+                    },
+                    "secondaryData": [],
+                    "queueData": []
+                }
+            },
+            "isPosed": false,
+            "isCustomPosed": false,
+            "customPose": {
+                "sprite": {
+                    "instanceID": 0
+                },
+                "name": "",
+                "animationName": "",
+                "boneData": [],
+                "targetData": []
+            }
+        }
+    ],
+    "cityData": []
+}
